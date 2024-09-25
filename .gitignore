@@ -1,0 +1,25 @@
+# Virtual environment
+arxiv_env/
+
+# Downloaded PDFs
+pdfs/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files (uncomment if needed)
+# .vscode/
+# .idea/
+
+# Environment variables
+.env
